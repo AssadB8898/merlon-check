@@ -1,0 +1,4 @@
+bin/
+dist/
+*.wasm
+.DS_Store
